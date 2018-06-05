@@ -4,7 +4,7 @@ Hi, I'm Joel Cabaco and on this page I will go through the development of Mystar
 
 As the Quality Assurance responsible, my first contribution to the team was to create the QA Plan document that would have to be followed during the development in order to keep the game playable while still making progress. Said QA Plan can be found [here](https://github.com/NOREADMEStudios/ProjectII/wiki/7.-QA-Plan).
 
-The plan wasn't followed as strictly as it should during the game's development, but some intense bugfixing sprints were made at the end of each version (excluding alpha) to make up for it. Github Issues proved to be an essential tool in this process, since it provided an easy way to classify and assign bugfixes, enhancements or other improvements to the game that needed to be made.
+The plan wasn't followed as strictly as it should during the game's development, but some intense bugfixing sprints were made at the end of each version (excluding alpha) to make up for it. Github Issues proved to be an essential tool in this process, since it provided an easy way to classify and assign bugfixes, enhancements or other improvements to the game that needed to be made. I took care of categorizing each issue, closing duplicates or invalid ones, asking further information about issues to the original posters and assigning each issue to a milestone and to one or more team members for them to work on it. I also was the member that could move Trello cards from "To check" to "Done", after testing the feature for the required time. 
 
 ---
 
@@ -29,3 +29,8 @@ _Original warrior sprite_
 _Original elf sprite, called "Rogue" in Mystara Arena_
 
 ---
+
+I also did some pixel art for the game's UI. All of the art includes the player slates indicating which player is which on the selection screens, the cursors, triangles and item icons for the item selection screen, the ability icons for each character (and the little animation for the cooldown), the sliders for the music and sfx on the settings screen, the round indicators, the circles that indicate which team is each player in and the buttons for the main menu and the pause menu. Every sprite can be seen [here](https://imgur.com/a/iJ2KZQn), in the respective order.
+
+---
+
